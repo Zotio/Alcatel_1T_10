@@ -1,0 +1,1 @@
+/home/zotio/Android/Alcate_1T_10-main/drivers/misc/mediatek/uart/mt6580/platform_uart.h

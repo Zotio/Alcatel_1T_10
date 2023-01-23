@@ -1,0 +1,7 @@
+menu "DTV Configure"
+
+config DTV_FC8180_SUPPORT
+	bool "CONFIG_DTV_FC8180_SUPPORT"
+	default n
+
+endmenu

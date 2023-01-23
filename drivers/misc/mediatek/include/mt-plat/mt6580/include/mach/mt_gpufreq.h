@@ -1,0 +1,1 @@
+/home/zotio/Android/Alcate_1T_10-main/drivers/misc/mediatek/base/power/mt6580/mt_gpufreq.h

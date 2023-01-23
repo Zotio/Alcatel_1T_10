@@ -1,0 +1,1 @@
+/home/zotio/Android/Alcate_1T_10-main/drivers/misc/mediatek/m4u/mt6580/2.0/m4u_v2.h

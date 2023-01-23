@@ -1,0 +1,1 @@
+/home/zotio/Android/Alcate_1T_10-main/drivers/mmc/host/mediatek/mt6580/mt_sd.h
